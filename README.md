@@ -1,4 +1,4 @@
-# novel-live-writing
+# novel-live-writing-two
 
 写小说 / 网文用的**活人感总装** skill。单文件，零依赖。
 
@@ -41,13 +41,13 @@
 把 `SKILL.md` 放进 skill 目录：
 
 ```
-~/.claude/skills/novel-live-writing/SKILL.md
+~/.claude/skills/novel-live-writing-two/SKILL.md
 ```
 
 **方式二：让 agent 自己装**
 
 ```
-帮我安装这个 skill：https://github.com/2384291629/novel-live-writing
+帮我安装这个 skill：https://github.com/2384291629/novel-live-writing-two
 ```
 
 **方式三：直接贴**
@@ -59,7 +59,7 @@
 装好后，写小说正文、网文章节、人物对白、正文润色、去 AI 味改写时默认触发。也可以直接说：
 
 ```
-用 novel-live-writing 帮我改这一章，过一下朱雀
+用 novel-live-writing-two 帮我改这一章，过一下朱雀
 ```
 
 输出包含：门检结论 → 四维诊断 → 改写亮点 → 前后对比 → 变更统计 → L1–L4 自检 → 残余风险 → 改写全文。

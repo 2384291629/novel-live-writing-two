@@ -1,9 +1,9 @@
 ---
-name: novel-live-writing
+name: novel-live-writing-two
 description: 写小说/网文时的活人感总装 skill（自包含单文件版）。当写小说正文、网文章节、人物对白、正文润色、去 AI 味改写、过朱雀真人率检测时默认调用。融合 novel-humanize（朱雀去味主力）、huoren-write（表达层打磨、保剧情与人物声口、质检）、human-writing（通用活人感创作基调）。特点：一句一句细改注入人味、引号只清半角直引号（全角引号保留原文）、破折号清零、连贯句少用句号并适当用感叹号/问号/冒号（自然不突兀）、保剧情不 OOC。零依赖，无需 references/ 或 scripts/。
 ---
 
-# 小说活人感写作总装（novel-live-writing）
+# 小说活人感写作总装（novel-live-writing-two）
 
 一份文件装齐全部规则。不需要读别的文件，不需要跑脚本。把这一份放进 agent 的 skill 目录，或直接整份贴给模型，就能按规则改稿。
 
