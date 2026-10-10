@@ -1,6 +1,7 @@
 ---
 name: novel-live-writing-two
-description: 写小说/网文时的活人感总装 skill（自包含单文件版）。写小说正文、网文章节、人物对白、正文润色、去 AI 味改写、过朱雀真人率检测时默认调用。融合 novel-humanize、huoren-write、human-writing 三源。零依赖，无 references/ 或 scripts/。
+description: 写小说和网文时的活人感总装 skill。写小说正文、网文章节、人物对白、正文润色、去 AI 味改写、过朱雀真人率检测时调用。本文件自带全部规则，不引用任何外部文件，不要求执行任何命令。
+---
 
 ## 1. 不可违反的边界
 
